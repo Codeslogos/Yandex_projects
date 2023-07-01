@@ -14,6 +14,7 @@
 - Машинное обучение: библиотеки Scikit-learn, XGBoost
 
 ## Программа обучения:
+![-](https://github.com/Codeslogos/Yandex_projects/blob/main/diplom.png)
 
 ## Проекты:
 | №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  
